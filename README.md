@@ -1,7 +1,8 @@
 Swiggy Data Analysis Using Python
 
 Project Overview:
-This project is based on Swiggy food delivery data analysis using Python. The main objective of this project is to explore restaurant and food trends, understand customer preferences, and perform exploratory data analysis (EDA) with the help of visualizations.
+This project is based on Swiggy food delivery data analysis using Python. The main objective of this project is to explore restaurant 
+and food trends, understand customer preferences, and perform exploratory data analysis (EDA) with the help of visualizations.
 
 The analysis includes:
 Top food categories analysis
@@ -70,7 +71,8 @@ Some cuisines are more popular across multiple cities.
 Price and ratings influence customer preferences significantly.
 
 Conclusion:
-This project helped in understanding food delivery trends and improved practical knowledge of data analysis and visualization using Python. It also provided experience in handling real-world datasets and generating insights from restaurant and customer data.
+This project helped in understanding food delivery trends and improved practical knowledge of data analysis and visualization using Python. 
+It also provided experience in handling real-world datasets and generating insights from restaurant and customer data.
 
 Project Structure:
 Swiggy-Data-Analysis/
@@ -90,4 +92,5 @@ Swiggy-Data-Analysis/
     └── project_output.png
 
 Description:
-Swiggy Data Analysis project using Python, Pandas, Matplotlib, and Seaborn. This project explores restaurant trends, food categories, ratings, and customer preferences through visualizations and exploratory data analysis.
+Swiggy Data Analysis project using Python, Pandas, Matplotlib, and Seaborn. This project explores restaurant trends, food categories, ratings,
+and customer preferences through visualizations and exploratory data analysis.
